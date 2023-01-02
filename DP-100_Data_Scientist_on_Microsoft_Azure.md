@@ -45,6 +45,10 @@ Conocido como función de costo, y evalúan si el modelo es eficaz|Información 
 ### **Creación de modelos de aprendizaje automático clásicos con aprendizaje supervisado**
 - **Aprendizaje sin supervisión**: Se entrena un modelo para resolver un problema sin saber la respuesta correcta. Se usa para problemas con solución mejor y peor, más no correcta.
 - **Aprendizaje supervisado**: Aprende basado en ejemplos. Se evalua el rendimiento mediante comparación con respuesta correcta. 
+- **Reducción de los errores del modelo con funciones de costo**: Costo, también conocidas como función objetivo.
+  - **Reducción de costo es nuestro objetivo**: Costo indica ineficacia del modelo, se intenta llegar a costo cero. También debemos definir el costo, como por ejemplo un error al calcular la temperatura.
+  - **Función de costo**: Fragmento de código 
+- **Optimización de modelos mediante el descenso de gradiente**
 ### **Introducción a los datos para el aprendizaje automático**
 ### **Exploración y análisis de datos con Python**
 ### **Aprendizaje y conocimiento de los modelos de regresión en el aprendizaje automático**
